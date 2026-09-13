@@ -1,0 +1,3 @@
+// Automatically generated 2025-07-17 for IVAO ATC Ops.
+// Data ⓒ OpenStreetMap Contributors (https://www.openstreetmap.org/copyright)
+

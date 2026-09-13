@@ -1,0 +1,5 @@
+// Automatically generated 2025-08-20 for IVAO ATC Ops.
+// Data ⓒ OpenStreetMap Contributors (https://www.openstreetmap.org/copyright)
+LOKF - Flugplatz Feldkirchen;LOKF;46.710173;014.076047;
+
+

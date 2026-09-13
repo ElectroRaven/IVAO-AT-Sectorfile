@@ -1,0 +1,10 @@
+// Automatically generated 2025-08-20 for IVAO ATC Ops.
+// Data ⓒ OpenStreetMap Contributors (https://www.openstreetmap.org/copyright)
+
+A;LOLW;48.179823;014.031752;
+A;LOLW;48.179823;014.031752;
+B;LOLW;48.180244;014.046162;
+B;LOLW;48.181061;014.047209;
+C;LOLW;48.184069;014.049383;
+Z;LOLW;48.178608;014.038042;
+

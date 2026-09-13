@@ -1,0 +1,5 @@
+// Automatically generated 2025-08-20 for IVAO ATC Ops.
+// Data ⓒ OpenStreetMap Contributors (https://www.openstreetmap.org/copyright)
+Wolfsberg;LOKW;46.819157;014.823997;
+
+

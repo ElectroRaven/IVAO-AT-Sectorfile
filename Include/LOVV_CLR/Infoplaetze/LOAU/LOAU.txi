@@ -1,0 +1,8 @@
+// Automatically generated 2025-07-17 for IVAO ATC Ops.
+// Data ⓒ OpenStreetMap Contributors (https://www.openstreetmap.org/copyright)
+Betriebsgebäude;LOAU;48.410433;016.192675;
+
+C;LOAU;48.409845;016.191444;
+B;LOAU;48.409821;016.192773;
+A;LOAU;48.409995;016.193602;
+
