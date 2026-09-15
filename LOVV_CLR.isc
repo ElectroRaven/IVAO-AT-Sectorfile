@@ -24,7 +24,8 @@ GRASS;#3A5A40;
 GRASSTW;#5D6D5F;        //Grass Taxiways
 ASPHALT;#434343;        //Runway, Taxiways and Apron
 BUILDINGS;#4A0D0D;
-HELIPAD;#F54927; //Helipad Center
+HELIPAD;#F54927;        //Helipad Red H
+STOP;#a20d09;           //Stopbar
 
 
 [Airport]
